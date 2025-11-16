@@ -1,8 +1,8 @@
 ## ＳＤＤＭ  ＴＨＥＭＥＳ
 
-*Este proyecto contiene mi entorno gráfico completo basado en **BSPWM** para Kali Linux.*
+*Este proyecto contiene mi tema de **sddm***
 
-![hacker](Assets/hacker.jpeg)
+![hacker](Assets/hacker.png)
 
 ## Clonar repositorio
 ```bash
