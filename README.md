@@ -1,2 +1,0 @@
-# sddm-themes
-mi sddm 
