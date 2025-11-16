@@ -8,8 +8,6 @@
 ```bash
 - git clone https://github.com/espinalclark/sddm-themes.git
 - cd sddm-themes
-- chmod +x setup.sh
-- ./setup.sh
 ```
 ## Instalacion
 
