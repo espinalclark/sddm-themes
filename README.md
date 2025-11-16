@@ -2,7 +2,7 @@
 
 *Este proyecto contiene mi entorno gráfico completo basado en **BSPWM** para Kali Linux.*
 
-![menu](hacker/hacker.jpeg)
+![hacker](Assets/hacker.jpeg)
 
 ## Clonar repositorio
 ```bash
